@@ -5,7 +5,7 @@
 - 🖥️ Me interesa crear proyectos como sistemas de gestión y aplicaciones web.
 
 ### 🌟 Proyectos destacados
-- [Sistema de Gestión de Biblioteca](https://github.com/usuario/repositorio)
+- [Sistema de Gestión de Biblioteca](https://github.com/Sechuam/Mis-proyectos/tree/main/gestion%20libreria))
 - Mi primer repositorio: [Mis Proyectos](https://github.com/usuario/mis-proyectos)
 
 ---
