@@ -6,7 +6,7 @@
 
 ### 🌟 Proyectos destacados
 - [Sistema de Gestión de Biblioteca](https://github.com/Sechuam/Mis-proyectos/tree/main/gestion%20libreria)
-- Mi primer repositorio: [Mis Proyectos](https://github.com/usuario/mis-proyectos)
+- Mi primer repositorio: [Mis Proyectos](https://github.com/Sechuam/Mis-proyectos)
 
 ---
 ¡Gracias por visitar mi perfil!
