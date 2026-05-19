@@ -13,7 +13,7 @@
 Plataforma web basada en tecnología blockchain diseñada para la gestión y certificación segura de títulos y documentos académicos.
 - **Stack:** Laravel, React, Inertia.js, Tailwind CSS.
 - **Características:** Conexión con contratos inteligentes, interfaz intuitiva y automatización de certificados.
-- [Ver repositorio ➡️](https://github.com/Sechuam/vynco-core) *(Ajusta este enlace con el tuyo real)*
+- [Ver repositorio ➡️](https://github.com/Sechuam/Vynco.io)
 
 ### 📊 Sistema de Gestión de Biblioteca
 Aplicación de escritorio/backend desarrollada para la administración, préstamo y control de usuarios y libros.
